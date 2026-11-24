@@ -79,20 +79,6 @@ A Retrieval-Augmented Generation (RAG) application that lets users ask questions
 
        streamlit run app.py
 
-## Deploy on Streamlit Community Cloud
-
-1. Sign in to Streamlit Community Cloud using GitHub.
-2. Create a new app and select this repository.
-3. Set the main file path to app.py.
-4. Add these values in the app's Secrets settings:
-
-       GEMINI_API_KEY = "your_gemini_api_key"
-       GEMINI_EMBEDDING_MODEL = "gemini-embedding-001"
-       GEMINI_GENERATION_MODEL = "your_working_gemini_model"
-
-5. Deploy the app.
-
-Never commit your API key or local .env file to GitHub.
 
 ## Limitations
 
