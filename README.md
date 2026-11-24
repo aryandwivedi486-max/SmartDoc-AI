@@ -1,5 +1,9 @@
 # SmartDoc AI
 
+[![Open Live App](https://img.shields.io/badge/🚀_Open-Live_App-FF4B4B?style=for-the-badge)](https://smartdoc-ai-udixf9d2cfhzg8fxkwzjua.streamlit.app/)
+
+> **Try SmartDoc AI:** [Launch the deployed application](https://smartdoc-ai-udixf9d2cfhzg8fxkwzjua.streamlit.app/) — upload a PDF and ask questions about its content.
+
 A Retrieval-Augmented Generation (RAG) application that lets users ask questions about PDF documents. It uses Gemini for embeddings and answer generation, FAISS for similarity search, and Streamlit for the web interface.
 
 ## Features
